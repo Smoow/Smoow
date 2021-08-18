@@ -34,13 +34,15 @@
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoow&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoow&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+ <div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoow&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Smoow's Github Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoow&show_icons=true&hide_border=false&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </details>
 
 <details>	
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iampavangandhi&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=smoow&hide_border=false" />
 </details>
