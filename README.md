@@ -1,6 +1,6 @@
 ## Heya! I'm Pedro.
  
- I am currently an undergraduate student at UNICAMP/FT and Data Scientist Intern.<br>
+ I am currently an undergraduate student at UNICAMP/FT and Software Engineer.<br>
  I'm a passionate learner who's always willing to learn, work across new technologies and facing challenges.<br>
  Also, I really enjoy to work on personal projects in my free time.
  
